@@ -1,6 +1,6 @@
 - 👋 Hi, I’m stephano 
 - 👀 I’m interested in Technology (coding)
-- 🌱 I’m currently learning SLDS in PHP
+- 🌱 "js is beautiful"
 
 <!---
 pwamly/pwamly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
